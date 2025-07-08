@@ -43,5 +43,3 @@ Each image is labeled with the item class and the dataset is split into 60,000 t
 | CNN (Keras) | ~92–94% | Fast (GPU-enabled) | Stronger feature extraction |
 
 ---
-
-## 📁 Project Structure
